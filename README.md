@@ -8,7 +8,7 @@ You will need a free Red Hat account for this demo.  If you work for Red Hat, do
 
 **DO NOT CHECK THIS FILE INTO GIT!**
 
-In the `instance` directory, create a credentials secret named `credentials-secret.yaml` with contents like this:
+In the `base/instance` directory, create a credentials secret named `credentials-secret.yaml` with contents like this:
 
 ```
 apiVersion: v1
