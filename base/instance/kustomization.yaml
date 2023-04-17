@@ -1,0 +1,5 @@
+namespace: costmanagement-metrics-operator
+
+resources:
+  - credentials-secret.yaml
+  - costmanagementmetrics.yaml
