@@ -22,7 +22,7 @@ stringData:
   username: <your Red Hat password>
 ```
 
-Of course, substitute your own Red Hat username and password.  This file is specifically added to the `.gitignore` file to make sure you dont' accidentally commit this to your own git repository.
+Of course, substitute your own Red Hat username and password.  This file is specifically added to the `.gitignore` file to make sure you don't accidentally commit this to your own git repository.
 
 ## Install the Cost Management Metrics Operator
 
